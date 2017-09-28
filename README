@@ -1,0 +1,6 @@
+The purpose of this project is to analyze the RollingSales_Brooklyn data and practice R project structure.  
+
+Directories:
+* source - contains the source code for plots exploring the data, namely R_rollingsales_brooklyn.R.   
+* data - contains the RollingSalesBrooklyn data that we are analyzing
+* paper - Contains a text file that has a short paragraph describing the patterns found from the plots given in R_rollingsales_brooklyn.R
