@@ -1,0 +1,1 @@
+There doesn't seem to be any meaningful correlation with price versus square feet. However, when we limit the housing types to 1-, 2-, and 3- family housing, we see a positive correlation in the price of the house versus the square footage.
